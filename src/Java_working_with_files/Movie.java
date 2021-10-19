@@ -1,4 +1,4 @@
-package Java_files;
+package Java_working_with_files;
 
 import java.io.File;
 import java.io.FileNotFoundException;
