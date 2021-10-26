@@ -5,7 +5,7 @@ Year;Length;Title;Subject;Popularity;Awards
 1966;95;A Big Hand for the Little Lady;Comedy;12;No
 1992;60;A Certain Sacrifice;Music;24;No
 1962;105;A Child Is Waiting;Drama;60;No
-1985;118;A Chorus Line, The Java_working_with_files.Movie;Music;71;No
+1985;118;A Chorus Line, The Java_working_with_files.Movies;Music;71;No
 1990;89;A Chorus of Disapproval;Comedy;0;No
 1971;138;A Clockwork Orange;Science Fiction;83;Yes
 1967;100;A Coeur Joie, (Head Over Heels);Action;54;No
@@ -592,7 +592,7 @@ Year;Length;Title;Subject;Popularity;Awards
 1992;163;Good, the Bad & the Ugly, The;Westerns;68;No
 1961;120;Goodbye Again;Drama;6;No
 1977;110;Goodbye Girl, The;Comedy;6;Yes
-1953;75;Goon Show Java_working_with_files.Movie, The;Comedy;80;No
+1953;75;Goon Show Java_working_with_files.Movies, The;Comedy;80;No
 1988;95;Gor;Action;2;No
 1924;123;Gosta Berling's Saga;Drama;63;No
 1992;53;Gotta Dance, Gotta Sing;Music;20;No
@@ -799,7 +799,7 @@ Year;Length;Title;Subject;Popularity;Awards
 1987;164;Last Emperor, The;Drama;1;Yes
 1991;125;Last Hurrah, The;Drama;46;No
 1980;135;Last Metro, The;Drama;66;No
-1971;108;Last Java_working_with_files.Movie, The;Drama;22;No
+1971;108;Last Java_working_with_files.Movies, The;Drama;22;No
 1973;119;Last of Sheila, The;Mystery;39;No
 1972;98;Last of the Red Hot Lovers;Comedy;40;No
 1971;118;Last Picture Show, The;Drama;62;Yes
@@ -1235,7 +1235,7 @@ Year;Length;Title;Subject;Popularity;Awards
 1949;110;Sands of Iwo Jima;War;72;No
 1962;96;Sanjuro;Mystery;6;No
 1943;82;Sanshiro Sugata;Drama;85;No
-1985;104;Santa Claus, The Java_working_with_files.Movie;Comedy;19;No
+1985;104;Santa Claus, The Java_working_with_files.Movies;Comedy;19;No
 1973;93;Santee;Western;47;No
 1989;150;Sara Dane;Drama;75;No
 1989;90;Savage Intruder, The;Horror;24;No
@@ -1293,7 +1293,7 @@ Year;Length;Title;Subject;Popularity;Awards
 1987;97;Siesta;Drama;48;No
 1991;118;Silence of the Lambs, The;Mystery;8;Yes
 1963;95;Silence, The;Drama;79;No
-1978;88;Silent Java_working_with_files.Movie;Comedy;27;No
+1978;88;Silent Java_working_with_files.Movies;Comedy;27;No
 1983;131;Silkwood;Drama;52;No
 1929;74;Single Standard, The;Drama;73;No
 1982;107;Six Weeks;Drama;73;No
@@ -1364,7 +1364,7 @@ Year;Length;Title;Subject;Popularity;Awards
 1975;103;Sunshine Boys, The;Comedy;35;Yes
 1991;60;Super Duper Bloopers;Comedy;21;No
 1987;90;Superman IV: The Quest for Peace;Action;77;No
-1978;145;Superman, The Java_working_with_files.Movie;Action;87;No
+1978;145;Superman, The Java_working_with_files.Movies;Action;87;No
 1987;83;Surf Nazis Must Die;Horror;50;No
 1987;95;Surrender;Comedy;84;No
 1992;85;Survival Zone;Action;25;No
